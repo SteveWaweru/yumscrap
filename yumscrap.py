@@ -33,6 +33,7 @@ def get_restruarants(url):
     return restuarant_link
 
 
+# TODO: Getting categories with the food items
 def get_menu(url):
     """
     Funtion that loops to all menu menu items on a location url given and returns a list tuple of the name, description
